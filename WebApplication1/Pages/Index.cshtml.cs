@@ -19,6 +19,7 @@ namespace WebApplication1.Pages
 
         public void Method1()
         {
+            int x = 100;
             return;
         }
     }
