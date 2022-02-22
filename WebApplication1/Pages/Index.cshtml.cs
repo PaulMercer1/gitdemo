@@ -14,12 +14,13 @@ namespace WebApplication1.Pages
 
         public void OnGet()
         {
-            //test
+            //test, modified
         }
 
         public void Method1()
         {
-
+            int x = 100;
+            return;
         }
     }
 }
