@@ -10,6 +10,8 @@ namespace WebApplication1.Pages
         public IndexModel(ILogger<IndexModel> logger)
         {
             _logger = logger;
+            var c = new Class();
+            var x = c.Test(3);
         }
 
         public void OnGet()
