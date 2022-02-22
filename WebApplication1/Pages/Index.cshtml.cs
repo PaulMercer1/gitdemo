@@ -18,5 +18,10 @@ namespace WebApplication1.Pages
         {
 
         }
+
+        public void Method1()
+        {
+
+        }
     }
 }
