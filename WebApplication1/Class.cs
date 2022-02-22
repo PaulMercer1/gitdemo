@@ -2,9 +2,9 @@
 {
     public class Class
     {
-        public int Test(int number)
+        public int Test(int number, int number2)
         {
-            return number * 2;
+            return (number * 2) + number2;
         }
     }
 }
