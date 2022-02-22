@@ -14,7 +14,7 @@ namespace WebApplication1.Pages
 
         public void OnGet()
         {
-
+            //test
         }
 
         public void Method1()
